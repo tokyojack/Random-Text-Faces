@@ -1,0 +1,19 @@
+{
+  "name": "random_text_faces",
+  "version": "1.0.0",
+  "description": "Obtain a random text-face that you're able to display (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokyojack/Random-Text-Faces.git"
+  },
+  "author": "Jack Clarke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tokyojack/Random-Text-Faces/issues"
+  },
+  "homepage": "https://github.com/tokyojack/Random-Text-Faces#readme"
+}
