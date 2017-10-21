@@ -1,6 +1,6 @@
 {
   "name": "random-text-faces",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Obtain a random text-face that you're able to display (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
   "main": "index.js",
   "scripts": {
