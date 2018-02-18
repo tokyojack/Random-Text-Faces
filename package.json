@@ -1,7 +1,7 @@
 {
   "name": "random-text-faces",
-  "version": "1.0.7",
-  "description": "Obtain a random text-face that you're able to display (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
+  "version": "1.0.8",
+  "description": "Random text-face generator! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
