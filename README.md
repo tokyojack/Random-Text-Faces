@@ -14,7 +14,10 @@
   
 ## :cd: Installation
 
-```npm install random-text-face```
+Simpley run this with-in your console and you're good to go!
+```
+npm install random-text-face --save
+```
 
 
 ## :straight_ruler: Usage
