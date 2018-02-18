@@ -12,7 +12,7 @@
   </p>
   
   
-## :triangular_ruler: Installation
+## :cd: Installation
 
 ```npm install random-text-face```
 
