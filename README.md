@@ -25,7 +25,7 @@
   console.log(randomTextFaces.get()); //Returns a random face
   console.log(randomTextFaces.get(5)); //Returns an array of 5 different faces
   ```
-## :open_file_folder: Text-Faces websites
+## :open_file_folder: Text-face websites
 
 - [textfac.es](https://textfac.es/)
 - [kawaiiface.net](http://kawaiiface.net)
