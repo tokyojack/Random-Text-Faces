@@ -3,7 +3,7 @@
 // http://kawaiiface.net/happy-kawaii-faces/
 // https://www.lennyfaces.net/dongers
 
-//Would like to use Json, but it was having problems with the characters
+//Would like to use JSON, but it was having problems with the characters
 var faces = [
     "( ͡° ͜ʖ ͡°)",
     "¯\\_(ツ)_/¯",
