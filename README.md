@@ -20,7 +20,7 @@ npm install random-text-face --save
 
 ## :straight_ruler: Usage
 
-  ```
+  ```javascript
   var randomTextFaces = require('random-text-faces');
   
   console.log(randomTextFaces.get()); //Returns a random face
