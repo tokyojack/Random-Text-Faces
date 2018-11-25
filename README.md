@@ -14,7 +14,7 @@
 
 Simpley run this with-in your console and you're good to go!
 ```
-npm install random-text-face --save
+npm install random-text-faces --save
 ```
 
 
